@@ -1,0 +1,26 @@
+@import 'semantic';
+/* My Styles */
+h1,
+h2,
+h3,
+h4,
+p {
+    color: #fff;
+    padding-top: 2em;
+}
+h1 {
+    font-size: 3em;
+}
+button {
+    // text-align: center;
+}
+.container {
+    background: rgba(0,0,0,0.75);
+}
+body,
+html {
+    background: url("../img/bg.jpg");
+}
+.column {
+    // padding-top: 2em;
+}
