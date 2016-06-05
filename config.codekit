@@ -115,7 +115,7 @@
 		"outputAbbreviatedPath": "\/images\/close.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/next.png": {
 		"fileType": 32768,
@@ -126,7 +126,7 @@
 		"outputAbbreviatedPath": "\/images\/next.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/prev.png": {
 		"fileType": 32768,
@@ -137,7 +137,7 @@
 		"outputAbbreviatedPath": "\/images\/prev.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bg.jpg": {
 		"fileType": 16384,
@@ -511,7 +511,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-photos\/img15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-photos\/img16.jpg": {
 		"fileType": 16384,
@@ -522,7 +522,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-photos\/img16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-photos\/img17.jpg": {
 		"fileType": 16384,
@@ -533,7 +533,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-photos\/img17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-photos\/img18.jpg": {
 		"fileType": 16384,
@@ -544,7 +544,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-photos\/img18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-photos\/img2.jpg": {
 		"fileType": 16384,
@@ -643,7 +643,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img10.jpg": {
 		"fileType": 16384,
@@ -654,7 +654,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img11.jpg": {
 		"fileType": 16384,
@@ -665,7 +665,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img12.jpg": {
 		"fileType": 16384,
@@ -676,7 +676,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img13.jpg": {
 		"fileType": 16384,
@@ -687,7 +687,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img14.jpg": {
 		"fileType": 16384,
@@ -698,7 +698,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img15.jpg": {
 		"fileType": 16384,
@@ -709,7 +709,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img16.jpg": {
 		"fileType": 16384,
@@ -720,7 +720,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img17.jpg": {
 		"fileType": 16384,
@@ -731,7 +731,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img18.jpg": {
 		"fileType": 16384,
@@ -742,7 +742,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img2.jpg": {
 		"fileType": 16384,
@@ -753,7 +753,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img3.jpg": {
 		"fileType": 16384,
@@ -764,7 +764,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img4.jpg": {
 		"fileType": 16384,
@@ -775,7 +775,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img5.jpg": {
 		"fileType": 16384,
@@ -786,7 +786,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img6.jpg": {
 		"fileType": 16384,
@@ -797,7 +797,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img7.jpg": {
 		"fileType": 16384,
@@ -808,7 +808,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img8.jpg": {
 		"fileType": 16384,
@@ -819,7 +819,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gal-tn\/img9.jpg": {
 		"fileType": 16384,
@@ -830,7 +830,7 @@
 		"outputAbbreviatedPath": "\/img\/gal-tn\/img9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -898,7 +898,7 @@
 		},
 	"\/js\/semantic.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/semantic.js",
 		"outputAbbreviatedPath": "\/js-min\/scripts.min.js",
