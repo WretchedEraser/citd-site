@@ -3604,7 +3604,7 @@ input::selection {
 
 .ui.teal.buttons .button,
 .ui.teal.button {
-  background-color: #00b5ad;
+  background-color: #67e29d;
   color: #ffffff;
   text-shadow: none;
   background-image: none;
@@ -3616,21 +3616,21 @@ input::selection {
 
 .ui.teal.buttons .button:hover,
 .ui.teal.button:hover {
-  background-color: #009c95;
+  background-color: #67e29d;
   color: #ffffff;
   text-shadow: none;
 }
 
 .ui.teal.buttons .button:focus,
 .ui.teal.button:focus {
-  background-color: #008c86;
+  background-color: #67e29d;
   color: #ffffff;
   text-shadow: none;
 }
 
 .ui.teal.buttons .button:active,
 .ui.teal.button:active {
-  background-color: #00827c;
+  background-color: #67e29d;
   color: #ffffff;
   text-shadow: none;
 }
@@ -3639,7 +3639,7 @@ input::selection {
 .ui.teal.buttons .active.button:active,
 .ui.teal.active.button,
 .ui.teal.button .active.button:active {
-  background-color: #009c95;
+  background-color: #67e29d;
   color: #ffffff;
   text-shadow: none;
 }
@@ -3655,8 +3655,8 @@ input::selection {
 .ui.basic.teal.buttons .button:hover,
 .ui.basic.teal.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 2px #009c95 inset !important;
-  color: #009c95 !important;
+  box-shadow: 0px 0px 0px 2px #67e29d inset !important;
+  color: #67e29d !important;
 }
 
 .ui.basic.teal.buttons .button:focus,
@@ -3668,7 +3668,7 @@ input::selection {
 .ui.basic.teal.buttons .active.button,
 .ui.basic.teal.active.button {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 2px #009c95 inset !important;
+  box-shadow: 0px 0px 0px 2px #67e29d inset !important;
   color: #00827c !important;
 }
 
@@ -3687,8 +3687,8 @@ input::selection {
 .ui.inverted.teal.buttons .button,
 .ui.inverted.teal.button {
   background-color: transparent;
-  box-shadow: 0px 0px 0px 2px #6dffff inset !important;
-  color: #6dffff;
+  box-shadow: 0px 0px 0px 2px #67e29d inset !important;
+  color: #67e29d;
 }
 
 .ui.inverted.teal.buttons .button:hover,
@@ -3705,7 +3705,7 @@ input::selection {
 
 .ui.inverted.teal.buttons .button:hover,
 .ui.inverted.teal.button:hover {
-  background-color: #54ffff;
+  background-color: #67e29d;
 }
 
 .ui.inverted.teal.buttons .button:focus,
@@ -3715,7 +3715,7 @@ input::selection {
 
 .ui.inverted.teal.buttons .active.button,
 .ui.inverted.teal.active.button {
-  background-color: #54ffff;
+  background-color: #67e29d;
 }
 
 .ui.inverted.teal.buttons .button:active,
@@ -6514,7 +6514,7 @@ a.ui.inverted.green.header:hover {
 }
 
 a.ui.teal.header:hover {
-  color: #009c95 !important;
+  color: #67e29d !important;
 }
 
 .ui.teal.dividing.header {
@@ -11753,15 +11753,15 @@ a.ui.green.label:hover:before {
 
 a.ui.teal.labels .label:hover,
 a.ui.teal.label:hover {
-  background-color: #009c95 !important;
-  border-color: #009c95 !important;
+  background-color: #67e29d !important;
+  border-color: #67e29d !important;
   color: #ffffff !important;
 }
 
 .ui.labels a.teal.label:hover:before,
 .ui.teal.labels a.label:hover:before,
 a.ui.teal.label:hover:before {
-  background-color: #009c95 !important;
+  background-color: #67e29d !important;
 }
 
 .ui.teal.ribbon.label {
@@ -23564,7 +23564,7 @@ a.ui.card:hover,
 .ui.teal.cards > .card:hover,
 .ui.cards > .teal.card:hover,
 .ui.teal.card:hover {
-  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px #009c95, 0px 1px 3px 0px #bcbdbd;
+  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px #67e29d, 0px 1px 3px 0px #bcbdbd;
 }
 
 /* Blue */
