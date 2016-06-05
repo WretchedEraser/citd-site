@@ -498,8 +498,8 @@
 // My Scripts
 
 $('#gallery').justifiedGallery({
-    rowHeight: 150,
-    lastRow: 'hide',
+    rowHeight: 120,
+    // lastRow: 'hide',
     margins: 15,
     randomize: true,
     rel: 'gallery'
