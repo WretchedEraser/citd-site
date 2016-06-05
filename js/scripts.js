@@ -500,6 +500,7 @@
 $('#gallery').justifiedGallery({
     rowHeight: 120,
     // lastRow: 'hide',
+    captions: false,
     margins: 15,
     randomize: true,
     rel: 'gallery'
