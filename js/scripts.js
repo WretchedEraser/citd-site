@@ -499,7 +499,8 @@
 
 $('#gallery').justifiedGallery({
     rowHeight: 120,
-    // lastRow: 'hide',
+    maxRowHeight: 150,
+    lastRow: 'center',
     captions: false,
     margins: 15,
     randomize: true,
