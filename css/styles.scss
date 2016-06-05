@@ -6,13 +6,14 @@ h3,
 h4,
 p {
     color: #fff;
-    padding-top: 2em;
+    padding-top: 1em;
 }
-h1 {
+b h1 {
     font-size: 3em;
 }
-button {
-    // text-align: center;
+.ui.grid > .column:not(.row) {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
 .container {
     background: rgba(0,0,0,0.75);
